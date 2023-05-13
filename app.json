@@ -1,0 +1,12 @@
+{
+  "name": "KSR Cloud",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "https://github.com/louisdpr0",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "multi-device",
+    "whatsapp-bot"
+  ]
+}
